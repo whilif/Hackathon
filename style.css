@@ -21,7 +21,7 @@ body {
     margin: 4px 2px;
     cursor: pointer;
 }
-
+.button1 {background-color: rgb(194, 30, 194);}
 
 #canvas1 {
     margin: 10px;
